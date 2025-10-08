@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Welcome to my page<br>I'm Khoi from Vietnam<br>I'm currently learning Information Securiy in University of Information Technology | 2025 - 2029</p>
+<p align="left">Welcome to my page<br>I'm Khoi from Vietnam<br>I'm currently learning Information Security in University of Information Technology | 2025 - 2029</p>
 
 ###
 
